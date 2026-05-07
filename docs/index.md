@@ -12,3 +12,5 @@ Public privacy and support pages for local-first iPhone apps.
 - [Rough-In Photo Log Support](./rough-in-photo-log/support/)
 - [Dump Ticket Proof Privacy Policy](./dump-ticket-proof/privacy-policy/)
 - [Dump Ticket Proof Support](./dump-ticket-proof/support/)
+- [Class Pack Guard Privacy Policy](./class-pack-guard/privacy-policy/)
+- [Class Pack Guard Support](./class-pack-guard/support/)
