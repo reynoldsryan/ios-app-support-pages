@@ -20,3 +20,5 @@ Public privacy and support pages for local-first iPhone apps.
 - [Breaker Map Support](./breaker-map/support/)
 - [Material Proof Privacy Policy](./material-proof/privacy-policy/)
 - [Material Proof Support](./material-proof/support/)
+- [CancelProof Privacy Policy](./cancelproof/privacy-policy/)
+- [CancelProof Support](./cancelproof/support/)
