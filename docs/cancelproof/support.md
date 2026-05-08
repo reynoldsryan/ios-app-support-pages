@@ -1,5 +1,6 @@
 ---
 title: CancelProof Support
+permalink: /cancelproof/support/
 ---
 
 # CancelProof Support

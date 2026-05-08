@@ -1,5 +1,6 @@
 ---
 title: CancelProof Privacy Policy
+permalink: /cancelproof/privacy-policy/
 ---
 
 # CancelProof Privacy Policy
