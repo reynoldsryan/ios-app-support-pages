@@ -1,3 +1,8 @@
+---
+title: CaterReturn Support
+permalink: /caterreturn/support/
+---
+
 # CaterReturn Support
 
 CaterReturn is a local-first iPhone app for caterers who need a simple return card for pans, trays, utensils, cambros, and other gear left after an event.
@@ -13,6 +18,15 @@ CaterReturn is a local-first iPhone app for caterers who need a simple return ca
 
 CaterReturn is not an invoice, contract, debt-collection tool, delivery guarantee, or automated messaging service. It stores practical local notes so you can follow up with your own normal catering workflow.
 
-## Contact
+## Getting help
 
-For support, feature requests, or App Store review questions, contact Ryan Reynolds through the support contact listed on the App Store product page.
+For support, bug reports, privacy questions, or feature requests, open an issue here:
+
+https://github.com/reynoldsryan/ios-app-support-pages/issues
+
+Please include:
+
+- app name: CaterReturn
+- iPhone model
+- iOS version
+- a short description of what happened

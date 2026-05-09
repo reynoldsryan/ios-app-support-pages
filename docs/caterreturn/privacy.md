@@ -1,6 +1,11 @@
+---
+title: CaterReturn Privacy Policy
+permalink: /caterreturn/privacy-policy/
+---
+
 # CaterReturn Privacy Policy
 
-_Last updated: 2026-05-09_
+Effective date: May 9, 2026
 
 CaterReturn is designed as a local-only utility.
 
@@ -20,6 +25,12 @@ CaterReturn may offer a one-time Pro unlock through Apple's StoreKit. Purchase p
 
 If you use iOS sharing features, the text or image you choose to share is handled by the destination you select. CaterReturn does not send messages automatically.
 
+## Data deletion
+
+Because CaterReturn stores its app data locally on your device, you can delete app data by deleting the app from your device.
+
 ## Contact
 
-For privacy questions, contact Ryan Reynolds through the support contact listed on the App Store product page.
+For privacy questions, open an issue here:
+
+https://github.com/reynoldsryan/ios-app-support-pages/issues
