@@ -22,3 +22,5 @@ Public privacy and support pages for local-first iPhone apps.
 - [Material Proof Support](./material-proof/support/)
 - [CancelProof Privacy Policy](./cancelproof/privacy-policy/)
 - [CancelProof Support](./cancelproof/support/)
+- [Ball Machine Practice Privacy Policy](./ball-machine-practice/privacy-policy/)
+- [Ball Machine Practice Support](./ball-machine-practice/support/)
