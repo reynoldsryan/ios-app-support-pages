@@ -1,3 +1,8 @@
+---
+title: Golf Range Card Privacy Policy
+permalink: /golf-range-card/privacy/
+---
+
 # Golf Range Card Privacy Policy
 
 Last updated: May 13, 2026

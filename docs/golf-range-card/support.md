@@ -1,3 +1,8 @@
+---
+title: Golf Range Card Support
+permalink: /golf-range-card/support/
+---
+
 # Golf Range Card Support
 
 Golf Range Card is a local-only iPhone app for turning a range bucket into a clear practice card you can use between shots.
